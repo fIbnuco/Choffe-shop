@@ -16,10 +16,10 @@ This project is a starting point for a Flutter application.
 - Dart SDK (included in Flutter)
 - Device or emulator to run app
 
+
+![Img 1](gambar/gambar1.png)
+
 ### Setup Project:
 ```bash
 flutter pub get
 flutter run
-
-
-![Img 1](gambar/gambar1.png)
