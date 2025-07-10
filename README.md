@@ -21,3 +21,5 @@ This project is a starting point for a Flutter application.
 flutter pub get
 flutter run
 
+
+![Img 1](gambar/gambar1.png)
